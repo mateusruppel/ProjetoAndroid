@@ -28,7 +28,7 @@ header{
     padding : 0px;
     position : top;
     display : block;
-    width : 1vw;
+    width : 100%;
     color : white;
     margin-bottom: 15px;
     min-height : 100px;
